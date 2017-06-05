@@ -1,3 +1,3 @@
-# test
+# redacthaze-edit
 
- RedactHaze stylesheet modified for personal use.
+ RedactHaze modified for personal use. Move along...
