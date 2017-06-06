@@ -1846,7 +1846,7 @@ a[onclick^='remove_selection'] .brackets:before, a[onclick^='remove_selection'] 
     padding: 0 !important;
 }
 strong.important_text {
-    background: #854442 !important;
+    background: #E33838 !important;
 	color:#fff !important;
 }
 strong.important_text_alt {
